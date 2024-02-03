@@ -1,4 +1,11 @@
 ### Hi there 👋
+[Chinese Blog](https://www.jianshu.com/u/aae3032787f2)| [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&view_op=list_works&gmla=AH70aAXNe23u2yTGyEqNmYe5TzknXLkTUfpmSnnEJG_4oSyWcaMLUI571dSv7JFB_w-IOJRv2gj2jnm41oF7OISjy7YTEPU&user=oUSz_JUAAAAJ)|[X(twitter)](https://twitter.com/InkMcdul)|[WeCHat](https://mp.weixin.qq.com/s?__biz=MzIwMDQ3Njk5NA==&mid=2457382570&idx=1&sn=82d605c1fd18b242aa03a686bfc0dea6&chksm=81709e87b6071791714ddd152b8cbcea730f278db95602dbbb5c6ad150b8536d9a5db4458d93&token=990049730&lang=zh_CN#rd)
+- 🔭 Master of Microbiology of Nanjing Agriculture University, 2012-2015 ; Shandong Agriculture University Bioengineering 2008-2012
+- 🌱 GWAS and metagenomics data analysis for several years 
+- 👯 R language, Python and shell programming, I’m currently learning Snakemake
+
+
+![Wechat Offical Account](https://github.com/zd200572/zd200572/assets/20882745/a6714f40-f36e-4726-97ea-7f73ffb632bf)
 
 <!--
 **zd200572/zd200572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
